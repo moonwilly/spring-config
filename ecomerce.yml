@@ -1,5 +1,5 @@
 token:
   expiration_time: 86400000
-  secret: my_token_default_#3
+  secret: my_token_default_#4
 gateway:
   ip: 127.0.0.1
